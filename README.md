@@ -14,5 +14,10 @@
 - Tapşırığın reposunu yasin@pragmatech.az mail adresinə göndərin
 - Tapşırığın təhvil tarixi 5 Noyabr 23:00-dır
 
+# Məqalə yazmaq istəyənlərə mövzu başlıqları
+- Bootstrap framework-ün surətli öyrənilməsi və tətbiqi üçün üsullar
+- Layihədə Jquery istifadə etmə üsulları
+- Javascript öyrənə bilmək üçün yol xəritəsi
+- Back-end developerlərin bilməli olduğu Front-end mövzuları 
 
 
