@@ -5,7 +5,7 @@
 - Front-end prosesinin sürətləndirilməsi üçün alternativ yolların araşdırılması
 
 # Tapşırıqlar
-1. Verilən linkdəki admin templatei bootstrap istifadə edərək yazmaq
+1. Verilən linkdəki admin templatei bootstrap istifadə edərək yazmaq (https://colorlib.com//polygon/concept/pages/blank-page.html)
 2. http://almursheed.com/ səhifəsində olan "Ən çox ziyarət edilən yerlər" baslığı altındakı Content Sliderin Javascript ya da Jquery istifadə edərək yazmaq
 
 # Tapşırıq yazılma qaydaları
